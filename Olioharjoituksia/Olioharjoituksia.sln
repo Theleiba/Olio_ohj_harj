@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olio3", "Olio3\Olio3.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiuasolio", "Kiuasolio\Kiuasolio.csproj", "{BBA5B0C2-E75C-498C-BD61-BDE32C850CEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo8", "Demo8\Demo8.csproj", "{6A013ED3-E5EC-49F0-8600-6A4C110477C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo8Tests", "Demo8Tests\Demo8Tests.csproj", "{61B5BCD7-848B-471A-8EF9-644C1E74307E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{BBA5B0C2-E75C-498C-BD61-BDE32C850CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBA5B0C2-E75C-498C-BD61-BDE32C850CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBA5B0C2-E75C-498C-BD61-BDE32C850CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A013ED3-E5EC-49F0-8600-6A4C110477C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A013ED3-E5EC-49F0-8600-6A4C110477C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A013ED3-E5EC-49F0-8600-6A4C110477C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A013ED3-E5EC-49F0-8600-6A4C110477C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B5BCD7-848B-471A-8EF9-644C1E74307E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B5BCD7-848B-471A-8EF9-644C1E74307E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B5BCD7-848B-471A-8EF9-644C1E74307E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B5BCD7-848B-471A-8EF9-644C1E74307E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
