@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo8", "Demo8\Demo8.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo8Tests", "Demo8Tests\Demo8Tests.csproj", "{61B5BCD7-848B-471A-8EF9-644C1E74307E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeryausAppis", "KeryausAppis\KeryausAppis.csproj", "{57EE0F3E-6248-4035-8763-002074B451F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{61B5BCD7-848B-471A-8EF9-644C1E74307E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61B5BCD7-848B-471A-8EF9-644C1E74307E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61B5BCD7-848B-471A-8EF9-644C1E74307E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57EE0F3E-6248-4035-8763-002074B451F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57EE0F3E-6248-4035-8763-002074B451F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57EE0F3E-6248-4035-8763-002074B451F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57EE0F3E-6248-4035-8763-002074B451F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

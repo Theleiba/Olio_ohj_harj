@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Demo8
+namespace KeryausAppis
 {
-    class Program
+    interface Fani
     {
-        static void Main(string[] args)
-        {
-
-        }
+        void huutaa();
     }
 }
